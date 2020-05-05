@@ -1,12 +1,35 @@
-﻿class MainClass
+﻿
+using System.Diagnostics.CodeAnalysis;
+
+class MainClass
 {
+	public static void Sumar(double x, double y)
+	{
+		double resultado = 0;
+		resultado = x + y;
+		System.Console.WriteLine("la suma es: " + resultado);
+	}
+	public static void exprecion(double a, double b, double c)
+	{
+		double resultado=0;
+		resultado = ((b * b) - (4 * a * c)) / (2 * a);
+		System.Console.WriteLine("La expresion es: " + resultado);
+
+	}
 	public static void Main(string[] args)
 	{
-		int dato1, dato2, resultado;
-		dato1 = 10;
-		dato2 = 20;
-		resultado = dato1 - (dato2 / dato1);
-		//	System.Console.WriteLine ("Hello World!");
-		System.Console.WriteLine("el resultado es: {0}-({1}/{0})={2}", dato1, dato2, resultado);
+		string selec;
+		double a = 4, b = 3, c = 10; 
+		System.Console.WriteLine("Ingrese opcion 1 para suma, de lo contrario mostrara exprecion");
+		selec = System.Console.ReadLine();
+		if(selec == "1")
+		{
+			Sumar(a,b); 
+		}
+		else
+		{
+			exprecion(a, b, c);
+		}
+	
 	}
 }
