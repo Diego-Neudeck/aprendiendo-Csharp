@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\aprendiendo-Csharp\\Ejemplo 2\\Ejemplo 2.csproj": {}
+    "C:\\Users\\hp\\Source\\Repos\\aprendiendo-Csharp\\Ejemplo 2\\Ejemplo 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\aprendiendo-Csharp\\Ejemplo 2\\Ejemplo 2.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\aprendiendo-Csharp\\Ejemplo 2\\Ejemplo 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\aprendiendo-Csharp\\Ejemplo 2\\Ejemplo 2.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\aprendiendo-Csharp\\Ejemplo 2\\Ejemplo 2.csproj",
         "projectName": "Ejemplo 2",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\aprendiendo-Csharp\\Ejemplo 2\\Ejemplo 2.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\aprendiendo-Csharp\\Ejemplo 2\\Ejemplo 2.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\aprendiendo-Csharp\\Ejemplo 2\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\aprendiendo-Csharp\\Ejemplo 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
